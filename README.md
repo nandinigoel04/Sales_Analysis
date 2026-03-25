@@ -26,7 +26,7 @@ This project presents an interactive Sales Analysis Dashboard built using Power 
 
 ## 📷 Dashboard Preview
 
-(Add your screenshot here)
+![Dashboard](Dashboard.png)
 
 ## 📁 Files Included
 
